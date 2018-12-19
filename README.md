@@ -23,6 +23,7 @@ Download the _GBF Combat Sniffer ZIP archive_ from the [GBF Combat Sniffer manag
 ### Installing the GBF Combat Sniffer extension
 
 Navigate to [chrome://extensions/](chrome://extensions/) in your Chrome browser, then tick the _Developer mode_ checkbox:
+
 ![](https://i.imgur.com/c0sBgx7.png)
 
 Then click on the _Load unpacked extension_ button and select the folder `gbf-combat-sniffer-extension`.
