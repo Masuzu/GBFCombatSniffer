@@ -1,4 +1,4 @@
-# GBF Combat Sniffer
+# What is GBF Combat Sniffer?
 
 **Notice: work in progress**
 
@@ -10,6 +10,14 @@ Whatever your ping is, be on even ground with other competitive players by not w
 - Undetectable and seamless integration with your favorite Granblue Fantasy extensions.
 - Beat the competition by taking more turns on average than other players, while respecting the in-game limitations.
 
+#[Download website](https://gbtools.azurewebsites.net/CombatSniffer/en/Home)
+
+
+# Installation
+
+As [ZooeyBot](https://gbtools.azurewebsites.net/ZooeyBot/en/Home) and [SarasaBot](https://gbtools.azurewebsites.net/SarasaBot/en/Home), GBF Combat Sniffer requires the installation of a Chrome extension.
+
+
 ## Requirements
 
 - Chrome browser version of the game: http://game.granbluefantasy.jp
@@ -20,11 +28,7 @@ After making sure that you satisfied the prerequisites, you will need to registe
 Download the _GBF Combat Sniffer ZIP archive_ from the [GBF Combat Sniffer management page](https://gbtools.azurewebsites.net/CombatSniffer/en/Manage), **extract** the downloaded file and proceed as described below.
 
 
-## Installation
-
-As [ZooeyBot](https://gbtools.azurewebsites.net/ZooeyBot/en/Home) and [SarasaBot](https://gbtools.azurewebsites.net/SarasaBot/en/Home), GBF Combat Sniffer requires the installation of a Chrome extension.
-
-### Installing the GBF Combat Sniffer extension
+## Installing the GBF Combat Sniffer extension
 
 Navigate to [chrome://extensions/](chrome://extensions/) in your Chrome browser, then tick the _Developer mode_ checkbox:
 
@@ -38,7 +42,7 @@ For people worried about the use of Chrome extensions, please [read this](https:
 **The GBF Combat Sniffer does not mess with any of the elements of the HTML page, neither does it try to modify any of the Javascript variables on the GBF webpage in a way that would infringe in-game limitations.**
 
 
-## Getting started
+# Getting started
 
 1. Run GBFCombatSniffer.exe
 
