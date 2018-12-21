@@ -61,7 +61,8 @@ What happens if details were not updated (after refreshing too fast for instance
 
 # Gallery
 
-![](https://www.youtube.com/watch?v=zrAFj6rslOE)
+[Neptune 2-turn clear](https://www.youtube.com/watch?v=zrAFj6rslOE)
+[Nezha](https://www.youtube.com/watch?v=GpalY5Ty_PY)
 
 
 # Miscellaneous
