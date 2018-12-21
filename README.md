@@ -13,6 +13,8 @@ Whatever your ping is, be on even ground with other competitive players by not w
 Other unique features:
 - Icon abilities will be greyed out after you use an ability and will become clickable again when their cooldown expires _across all the windows_ without you having to refresh other windows. Please note that even though the displayed ability cooldown text may not reflect the actual cooldown of the skill, the GBF Combat Sniffer guarantees that when an ability icon is greyed out, it is still on cooldown, while when an ability icon is clickable, it is off-cooldown.
 
+GBF Combat Sniffer does not store any personal information about the user account.
+
 # [Download website](https://gbtools.azurewebsites.net/CombatSniffer/en/Home)
 
 
