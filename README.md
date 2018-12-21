@@ -56,6 +56,8 @@ What happens if details were not updated (after refreshing too fast for instance
 
 # Miscellaneous
 
+You can configure some of the settings of the GBF Combat Sniffer by editing the configuration file `GBFCombatSniffer.ini` with your favourite text editor. To stop the GBF Combat Sniffer, you can also use the keyboard shortcut `F1` (configured by default).
+
 If you use Viramate, please note that some settings are not compatible with GBF Combat Sniffer. The following settings are known to be compatible:
 
 ![](https://i.imgur.com/P3MdpDo.png)
