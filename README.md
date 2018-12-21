@@ -1,7 +1,5 @@
 # What is the GBF Combat Sniffer?
 
-**Notice: work in progress. ETA: Christmas**
-
 GBF Combat Sniffer is a **comprehensive multiboxing solution for Granblue Fantasy** for competitive gameplay, which allows you to play with several windows open at the same time.
 
 Whatever your ping is, be on even ground with other competitive players by not waiting for animations to complete and making the most of playing without any downtime.
@@ -12,6 +10,7 @@ Whatever your ping is, be on even ground with other competitive players by not w
 
 Other unique features:
 - Icon abilities will be greyed out after you use an ability and will become clickable again when their cooldown expires _across all the windows_ without you having to refresh other windows. Please note that even though the displayed ability cooldown text may not reflect the actual cooldown of the skill, the GBF Combat Sniffer guarantees that when an ability icon is greyed out, it is still on cooldown, while when an ability icon is clickable, it is off-cooldown.
+- Combat information such as your party members HP and debuffs at a glance even before the attack or ability animations complete.
 
 GBF Combat Sniffer does not store any personal information about the user account.
 
@@ -58,6 +57,12 @@ For people worried about the use of Chrome extensions, please [read this](https:
 4. That is it! Whenever you start or resume a raid, attack or use abilities or summons, you will see details about the combat displayed in the console and the combat state will be synchronized accross all your Granblue Fantasy windows.
 
 What happens if details were not updated (after refreshing too fast for instance while the response server response has not yet been received, resulting in an error page being displayed the next time you try to attack or cast a skill or summon)? No worries! Simply refresh any of the page and the combat details will be updated in the console and the different windows will all be synchronized together.
+
+
+# Gallery
+
+![](https://www.youtube.com/watch?v=zrAFj6rslOE)
+
 
 # Miscellaneous
 
