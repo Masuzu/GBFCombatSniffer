@@ -57,4 +57,5 @@ What happens if details were not updated (after refreshing too fast for instance
 # Miscellaneous
 
 If you use Viramate, please note that some settings are not compatible with GBF Combat Sniffer. The following settings are known to be compatible:
+
 ![](https://i.imgur.com/P3MdpDo.png)
