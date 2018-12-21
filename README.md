@@ -57,7 +57,9 @@ For people worried about the use of Chrome extensions, please [read this](https:
 
 4. That is it! Whenever you start or resume a raid, attack or use abilities or summons, you will see details about the combat displayed in the console and the combat state will be synchronized accross all your Granblue Fantasy windows.
 
-What happens if details were not updated (after refreshing too fast for instance while the response server response has not yet been received, resulting in an error page being displayed the next time you try to attack or cast a skill or summon)? No worries! Simply refresh any of the page and the combat details will be updated in the console and the different windows will all be synchronized together.
+![](https://i.imgur.com/XYMizfI.png)
+
+What happens if details were not updated (after refreshing too fast for instance while the response server response has not yet been received, resulting in an error page being displayed the next time you try to attack or cast a skill or summon)? No worries! Simply refresh any of the pages and the combat details will be updated in the console and the different windows will all be synchronized together.
 
 
 # Gallery
