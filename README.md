@@ -30,6 +30,7 @@ As [ZooeyBot](https://gbtools.azurewebsites.net/ZooeyBot/en/Home) and [SarasaBot
 
 - Chrome browser version of the game: http://game.granbluefantasy.jp
 - Download and install [Visual C++ Redistributable for Visual Studio 2015](https://www.microsoft.com/en-us/download/details.aspx?id=48145). Make sure to download the 32-bit version (`vc_redist.x86.exe`).
+- Chrome hardware acceleration is highly recommended as having multiple Granblue Fantasy windows open at the same time can significantly degrade the in-game FPS.
 
 After making sure that you satisfied the prerequisites, you will need to register a new account on the [download website](https://gbtools.azurewebsites.net/CombatSniffer/en/Home). This will grant you access to the [GBF Combat Sniffer management page](https://gbtools.azurewebsites.net/CombatSniffer/en/Manage), where you can get a new licence as well as the download link. Use the serial number generator provided on that same page (direct download [here](https://gbtools.azurewebsites.net/en/Account/GBFPokerBotSerialNumberGenerator)) to obtain a serial number for your computer.
 
