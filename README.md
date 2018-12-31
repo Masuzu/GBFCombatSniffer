@@ -1,8 +1,11 @@
 # What is the GBF Combat Sniffer?
 
-GBF Combat Sniffer is a **comprehensive multiboxing solution for Granblue Fantasy** for competitive and/or enhanced combat gameplay, which allows you to play with several windows open at the same time.
+GBF Combat Sniffer is a comprehensive multiboxing solution for Granblue Fantasy for competitive
+and/or enhanced combat gameplay, which allows you to play with several windows open at the same time and _without_ having to refresh them.
 
-Whatever your ping is, be on even ground with other competitive players by not waiting for animations to complete and making the most of playing without any downtime.
+Whatever your ping is, be on even ground with other competitive players by not waiting for animations to complete and making the most of playing without any downtime, whether you are racing for MVP rewards or fighting against other crews during Guild Wars.
+
+https://github.com/Masuzu/GBFCombatSniffer
 
 - Cast skills and summons from multiple simultaneously open Granblue Fantasy windows. This also includes the use of consumable items such as  recovery potions.
 - Undetectable and seamless integration with your favorite Granblue Fantasy extensions.
