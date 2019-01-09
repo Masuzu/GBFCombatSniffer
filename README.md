@@ -80,3 +80,5 @@ You can configure some of the settings of the GBF Combat Sniffer by editing the 
 If you use Viramate, please note that some settings are not compatible with GBF Combat Sniffer. The following settings are known to be compatible:
 
 ![](https://i.imgur.com/P3MdpDo.png)
+
+If the default parameters make your game too slow, try and increase the value of the configuration parameter `SynchronizationFrequencyInMilliseconds`.
