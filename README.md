@@ -68,10 +68,9 @@ What happens if details were not updated (after refreshing too fast for instance
 
 # Gallery
 
-[Neptune 2-turn clear](https://www.youtube.com/watch?v=zrAFj6rslOE)
+[Xeno Sagittarius](https://www.youtube.com/watch?v=qJ7RxiWUKZM)
 
-[Nezha](https://www.youtube.com/watch?v=xiePAoejzfE)
-
+[Baha HL racing](https://www.youtube.com/watch?v=hvKwxOJyZ30)
 
 # Miscellaneous
 
