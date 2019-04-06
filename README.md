@@ -10,11 +10,13 @@ https://github.com/Masuzu/GBFCombatSniffer
 - Cast skills and summons from multiple simultaneously open Granblue Fantasy windows. This also includes the use of consumable items such as  recovery potions.
 - Undetectable and seamless integration with your favorite Granblue Fantasy extensions.
 - Beat the competition by taking more turns on average than other players, while respecting the in-game limitations.
+- [Quick raid joining](https://youtu.be/d8kHpGFHVT8)
 
 Other unique features:
 - Icon abilities will be greyed out after you use an ability and will become clickable again when their cooldown expires _across all the windows_ without you having to refresh other windows. Please note that even though the displayed ability cooldown text may not reflect the actual cooldown of the skill, the GBF Combat Sniffer guarantees that when an ability icon is greyed out, it is still on cooldown, while when an ability icon is clickable, it is off-cooldown.
 - Combat information such as your party members HP and debuffs at a glance even before the attack or ability animations complete.
 - Works well with summon casting, consumable item use, Akasha's Time Warp.
+- Attack and ability key shortcuts (support for abilities and summons is progressively added)
 
 GBF Combat Sniffer does not store any personal information about the user account.
 
