@@ -67,12 +67,15 @@ For people worried about the use of Chrome extensions, please [read this](https:
 
 What happens if details were not updated (after refreshing too fast for instance while the response server response has not yet been received, resulting in an error page being displayed the next time you try to attack or cast a skill or summon)? No worries! Simply refresh any of the pages and the combat details will be updated in the console and the different windows will all be synchronized together.
 
+**Key-bindings can be configured by editing the configuration file ``GBFCombatSniffer.ini` in your favourite text editor.**
 
 # Gallery
 
 [Xeno Sagittarius](https://www.youtube.com/watch?v=qJ7RxiWUKZM)
 
 [Baha HL racing](https://www.youtube.com/watch?v=hvKwxOJyZ30)
+
+[Instant Raid joining](https://youtu.be/d8kHpGFHVT8)
 
 # Miscellaneous
 
