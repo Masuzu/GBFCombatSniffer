@@ -86,3 +86,5 @@ If you use Viramate, please note that some settings are not compatible with GBF 
 ![](https://i.imgur.com/P3MdpDo.png)
 
 If the default parameters make your game too slow, try and increase the value of the configuration parameter `SynchronizationFrequencyInMilliseconds`.
+
+Current version patch notes [1.10.0](https://gbtools.azurewebsites.net/CombatSniffer/en/Home/PatchNotes#1-10-0)
